@@ -492,4 +492,4 @@ async def ping(ctx):
     await ctx.send(f"🏓 **Pong!** Latency: `{round(bot.latency * 1000)}ms`")
 
 # ----------------- Run Bot -------------------
-bot.run("MTUyMzk4MTMyNjQ4NTU1MzE3Mg.GLD-x8.FcIzTEN-S3-PpNJU61SRytwgBV_Ft5b-1xQ07A")
+bot.run("MTUyMzk4MTMyNjQ4NTU1MzE3Mg.GD7J60.Luo-UChF7Ez9oEOyct3TlpyaAGlgqMQKW3LNzQ") 
