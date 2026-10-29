@@ -1,0 +1,28 @@
+{
+    "owners": [
+        1499433080409161769
+    ],
+    "autorole_bot": {
+        "1550846802276782171": 1551108835656204328
+    },
+    "autorole_user": {},
+    "antinuke": {},
+    "autoresponder": {},
+    "autoreact": {},
+    "wl": {
+        "1550846802276782171": {
+            "1499433080409161769": {
+                "Ban": true,
+                "Kick": true,
+                "Channel Create": true,
+                "Channel Delete": true,
+                "Role Create": true,
+                "Role Delete": true
+            }
+        }
+    },
+    "extraowner": {},
+    "snipes": {},
+    "warns": {},
+    "strikes": {}
+}
